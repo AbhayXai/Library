@@ -27,14 +27,5 @@ I'm a 15-year-old who loves Python and has created this library to help others l
 
 If you want to contribute or have any suggestions, please feel free to do so.
 
-## License
-
-This library is open-source and available under the MIT License.
-
 Happy learning and exploring Python!
 
-<style>
-  body {
-    background-color: #f0f0f0;
-  }
-</style>
